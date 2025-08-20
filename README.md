@@ -23,6 +23,20 @@ Provide insights that can help businesses and marketers make strategic choices b
 
 TOOLS USED
 
+• Coding Platforms:
+
+• SQL Platforms
+
+• Snowflake data visualization
+
+• Microsoft excel (Pivot tables & Excel)
+
+• ETL Planning and Architecture
+
+• Miro Planning
+
+• Canva for presentation
+
 
 SUMMARY OF FINDINGS
 
