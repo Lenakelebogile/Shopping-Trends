@@ -5,19 +5,18 @@ The goal of the Shopping-Trends project is to analyze and visualize consumer sho
 
 **OBJECTIVES**
 
-Collect and Clean Data
-Gather shopping-related data from reliable sources and perform preprocessing to ensure accuracy and consistency.
+. Collect and Clean Data Gather shopping-related data from reliable sources and perform preprocessing to ensure accuracy and consistency.
 
-Analyze Consumer Behavior
+. Analyze Consumer Behavior
 Identify patterns in consumer purchasing habits, including seasonal trends, popular product categories, and spending frequency.
 
-Visualize Trends
+. Visualize Trends
 Create interactive and informative visualizations charts, graphs, dashboards to present insights in a clear and engaging way.
 
-Identify Emerging Trends
+. Identify Emerging Trends
 Use data analysis techniques to highlight new or shifting shopping trends over time.
 
-Support Data-Driven Decisions
+. Support Data-Driven Decisions
 Provide insights that can help businesses and marketers make strategic choices based on consumer behavior and market shifts.
 
 
@@ -41,6 +40,7 @@ Provide insights that can help businesses and marketers make strategic choices b
 
 
 **RECOMMADATIONS**
+
 Integrate Real-Time Data Sources
 Enhance the project by incorporating real-time shopping or e-commerce data from APIs (e.g., Google Trends, Amazon, or Shopify APIs) for more up-to-date trend analysis.
 
